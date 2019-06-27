@@ -9,4 +9,4 @@ java虚拟机在执行代码过程中会把所管理的内存划分为若干个�
 3，方法区<br>
 4，本地方法栈<br>
 5，堆<br>
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/funaifu/JAVA-/blob/master/imge/%E6%95%B0%E6%8D%AE%E5%8C%BA%E5%9F%9F%E6%A8%A1%E5%9E%8B.JPG)
