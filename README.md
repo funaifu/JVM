@@ -10,6 +10,7 @@ java虚拟机在执行代码过程中会把所管理的内存划分为若干个�
 ![Image text](https://github.com/funaifu/JAVA-/blob/master/imge/java%E8%BF%90%E8%A1%8C%E6%97%B6%E6%95%B0%E6%8D%AE%E5%9C%A8%E5%86%85%E5%AD%98%E4%B8%AD%E7%9A%84%E5%88%86%E9%85%8D.jpg)<br>
 <br>
 ![Image text](https://github.com/funaifu/JAVA-/blob/master/imge/java%E5%A0%86%E5%86%85%E5%AD%98%E8%AF%A6%E7%BB%86%E5%88%86%E9%85%8D.jpg)
+<br>
 ![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
 
 ##### 程序计数器
