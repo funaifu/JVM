@@ -18,6 +18,8 @@ java虚拟机在执行代码过程中会把所管理的内存划分为若干个�
 * 线程私有
 * java虚拟机规范里面，唯一一个没有规定任何OutOfMemoryError情况的区域
 * 生命周期随着线程，线程启动而产生，线程结束而消亡
-
+<br>
+![Image text](https://github.com/funaifu/JAVA-/blob/master/imge/java%E5%A0%86%E5%86%85%E5%AD%98%E8%AF%A6%E7%BB%86%E5%88%86%E9%85%8D.jpg)
+<br>
 
 
