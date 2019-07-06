@@ -7,9 +7,9 @@ java虚拟机在执行代码过程中会把所管理的内存划分为若干个�
 运行时数据区域大致划分大致为：程序计数器，java虚拟机栈，方法区，本地方法栈，堆<br>
 
 <br>
-![Image text](https://github.com/funaifu/JAVA-/blob/master/imge/java%E8%BF%90%E8%A1%8C%E6%97%B6%E6%95%B0%E6%8D%AE%E5%9C%A8%E5%86%85%E5%AD%98%E4%B8%AD%E7%9A%84%E5%88%86%E9%85%8D.jpg)<br>
+![add Image](https://github.com/funaifu/JAVA-/blob/master/imge/java%E8%BF%90%E8%A1%8C%E6%97%B6%E6%95%B0%E6%8D%AE%E5%9C%A8%E5%86%85%E5%AD%98%E4%B8%AD%E7%9A%84%E5%88%86%E9%85%8D.jpg)<br>
 <br>
-![Image text](https://github.com/funaifu/JAVA-/blob/master/imge/java%E5%A0%86%E5%86%85%E5%AD%98%E8%AF%A6%E7%BB%86%E5%88%86%E9%85%8D.jpg)
+![add Image](https://github.com/funaifu/JAVA-/blob/master/imge/java%E5%A0%86%E5%86%85%E5%AD%98%E8%AF%A6%E7%BB%86%E5%88%86%E9%85%8D.jpg)
 <br>
 
 ##### 程序计数器<br>
@@ -19,7 +19,7 @@ java虚拟机在执行代码过程中会把所管理的内存划分为若干个�
 * java虚拟机规范里面，唯一一个没有规定任何OutOfMemoryError情况的区域
 * 生命周期随着线程，线程启动而产生，线程结束而消亡
 <br>
-![Image text](https://github.com/funaifu/JAVA-/blob/master/imge/java%E5%AD%97%E8%8A%82%E7%A0%81%E6%8C%87%E4%BB%A4.jpg)
+![add Image](https://github.com/funaifu/JAVA-/blob/master/imge/java%E5%AD%97%E8%8A%82%E7%A0%81%E6%8C%87%E4%BB%A4.jpg)
 <br>
 如图： Code:下面的   0: iconst_1 其中0就是代表程序计数器记录的字节码执行指令， LineNumberTable: 下面代表的是执行指令对应的源代码行号。<br>
 
